@@ -1,0 +1,136 @@
+---
+title: Fanzhou Liang
+format:
+    html:
+        embed-resources: true
+        css: styles.css
+---
+
+::: {.info}
+
+Preferred Name: Frank
+
+Email: fzlianguk@gmail.com | Phone: (+44) 07741948501
+
+GitHub: https://github.com/FzliangFrank
+
+LinkedIn: https://www.linkedin.com/in/frank-liang/
+
+Instagram: https://www.instagram.com/franklyarts/
+
+:::
+
+### Profile
+
+I am experiences data professional with strong technical skill. I have rare linguistic ability (I speak two languages) and am able to use several programming lanugages simultaneously (R, python, SQL, JavaScript,even Visual Basic).
+I am self taught, highly motivated individual with strong desire to learn. I have passion for data. I seek working with "true big data" in my next role. My calling is becaming a *Data Architect*. I aim to achive this by start working as a *Data Engineer* and challenge myself with heavier data volume.
+Outside work, I enjoy art and music. I share digital drawings on my instagram.
+
+### Technical Skill
+
+- Solid ELT (Extract Load Transform) skills for large geo-spatial data (typically 100,000 rows). For example:
+    - Restore historical version of data using change logs table without datetime database in pure PostgreSQL;
+    - Create computational efficient spatial join in absense of GIS spatial indexing.
+- Experience appying natual language processing (in commercial experience) and long paragraphs (Latent Dirichlet Allocation for my acdemic project). 
+<!-- font-end -->
+- Familar with HTML, JavaScript and modern Web development frameworks such as DJANGO, ReactJS, CSS, in fact, this CV is styled with CSS.
+
+---
+
+:::{.skill}
+
+- R-programming (Tidyverse, igraph)
+- Python (Pandas, Vega Altair)
+- Postgre SQL + PostGIS
+- Delta Lake
+
+- Text-mining & Topic Modelling 
+- Excel Macro & Visual Basics	
+
+- R-Shiny application
+- Neuro-Network
+- Tensorflow
+
+:::
+
+---
+
+### Work Experience 
+
+04/2022 – present | **Full Fibre Limited** | **Data Analyst/System Developer (full-time, temporary)** | Exeter, England, UK
+
+<!-- *Automation* -->
+<!-- - Automation, Application and Analytics: Automated re-occuring reportings (which is strictly data engineering); Build prototype application which can immediatly benefit the business; Support decision making by providing ad-hoc analytic. -->
+- Delivered the companies first semi-automated data for fibre optic testing, which were three times faster than manual human input. And further automated serveral recuring report. Such as monthly service billing, anual carbon footprint.
+<!-- *Analytic* -->
+- Deliverred the companies first data driven financial reporting for 2023 audit;
+- Participated in software procurement and having adviced the
+<!-- *Application* -->
+<!-- *Technology Leadership* -->
+- Prototyped the first algorithm that would fully automate low level planning using applied graph theory;
+- The first to prototypeing the companies fibre routing report and data validation strategy.
+- On-boarded and buddied two mid level colleagues during their first three months.
+- Taught Postgres SQL training courses to several non-technical colleagues.
+
+11/2021 - 01/2022 | **Marks and Spencer** | **General Customer Assistant** | Exeter, England, UK
+
+- Customer service: delivering a great shopping experience for their customers.
+
+### Voluntary Experiences 
+03/2022 –05/2022 | **Exeter Green Party** | **Database Support** | Exeter
+
+- Generic ad-hoc request and data transformations. 
+Worked with MySQL workbench.
+
+11/2021 – 03/2022 | **Forage** | **KPMG Data Analytic Virtual Internship**| Virtual, at home 
+
+- A virtual experience program that replicated the type of work KPMG graduates do with hypothetical data. 
+- Data quality assessment: assess data quality and communicate with clients concisely. 
+Data insights: explore data to propose efficient data-analytic models. 
+ 
+09/2017 – 07/2018 | **Henan University of Technology** | Student Interpreter, 
+Volunteered as an interpreter for foreign teaching staff. 
+ 
+### Education 
+2020 - 2021 | **University of Exeter** | **MSc Business Analytics** (merit)
+
+- A data-centric master programme at one of the UK’s top 10 universities.  
+- I was interviewed and successfully selected for the QTEM (Quantitative Technique for Economic and Management) program, but voluntarily withdrew to pursue visa status.   
+- I achieved a distinction for my final project, in which I used topic modelling to identify research funding opportunities.  
+
+2018 - 2020 | **Cardiff Metropolitan University** | **BA Business Management** with (Pathway) Human Resource Management (distinction, 1:1)
+
+- A comprehensive education of best business practices with an extra focus on human resources management. 
+
+2016 - 2018 | **Henan University of Technology** | **BA Human Resource Management** with Third Year Abroad
+
+- Bachelor’s degree with robust mathematics (calculous, matrix, probability theory) foundation taught in the first year.  
+- Taught and examined in full English; Achieved distinction for all english modules and awarded two scholarships.
+
+### Professional Qualification
+Since 2016 ACCA (5/13)
+
+- Three Foundational module Plus
+- Financial management (FM) 
+- Performance management (PM)
+
+### Portfolios
+**Identify Research Funding Trend using Topic Modelling**. This is my Master's thesis. A project features Topic Modeling (LDA) and natural language processing for scope research funding for artificial intelligence. 
+Full report here: https://github.com/FzliangFrank/Fzliang-UoE-2022
+
+**Network Data Utility tool.** A R-Shiny App Tool Kit for interactive network visualisation. These component can be used to quickly search;
+Preview here. This app is hosted on shiny.io: https://frank-the-tank.shinyapps.io/networkutils/
+
+**LLoyd Bank Statement Reader** A python package which read a pdf bank-statement into `.csv`, which I used to analysis my personal financial well-being.
+Repo here: https://github.com/FzliangFrank/pdf_bank_statement.
+
+### Interests & Activities 
+Café Laptop Hoper: Serial laptop hopper frawned by café owners across Cardiff and Exeter. Often found colonising coffee tables coding with my 14-inch Macbook.
+
+Violin: I actually won a few awards performing as a student violinist in Henan, China. Was briefly in a non-profit local Orchestra in Cardiff, Sourth Wales before pandemic. 
+
+Realistic Drawing: A more pathefist hobby. I have a art Instagram: https://www.instagram.com/franklyarts/.
+
+Whats On my Playlist: Taylor Swift, Flume, French 79, and IMANU
+
+
