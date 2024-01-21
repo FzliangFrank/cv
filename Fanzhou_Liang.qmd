@@ -4,12 +4,14 @@ format:
     html:
         embed-resources: true
         css: styles.css
+    docx:
+        reference-doc: style_ref.docx
 ---
 
 
 <!-- quarto add quarto-ext/fontawesome -->
 
-::: {.info}
+::: {.info custom-style='info'}
 
 *Preferred Name: "Frank"*
 
@@ -40,10 +42,10 @@ Outside work, I enjoy art and music. I share digital drawings on my Instagram.
 
 ---
 
-:::{.skill}
+:::{.skill custom-style='skills'}
 
 - R-programming (Tidyverse, igrap, tmap)
-- Python (Pandas, Vega Altair)
+- Python (Pandas, Vega Altair, ibis)
 - Postgre SQL + PostGIS
 - Delta Lake
 
@@ -51,7 +53,7 @@ Outside work, I enjoy art and music. I share digital drawings on my Instagram.
 - Excel Macro & Visual Basics	
 
 - R-Shiny application
-- Neuro-Network
+<!-- - Neuro-Network -->
 - Tensorflow
 
 :::
@@ -65,7 +67,6 @@ Outside work, I enjoy art and music. I share digital drawings on my Instagram.
 <!-- *Automation* -->
 <!-- - Automation, Application and Analytics: Automated re-occurring reporting (which is strictly data engineering); Build prototype application which can immediately benefit the business; Support decision making by providing ad-hoc analytics. -->
 - Delivered the company’s first semi-automated data for fibre optic testing, which was three times faster than manual human input. 
-- <!-- *Analytic* -->
 - Delivered the company’s first data-driven financial reporting for the 2023 annual audit;
 - Further automated several recurring reports, such as monthly service billing, annual carbon footprint, weekly build report;
 - Participated in software procurement and advised the
@@ -122,7 +123,7 @@ Since 2016 ACCA (5/13)
 **Identify Research Funding Trends using Topic Modelling**. This is my Master's thesis. A project features Topic Modelling (LDA) and natural language processing for scope research funding for artificial intelligence. 
 Full report here: https://github.com/FzliangFrank/Fzliang-UoE-2022
 
-**Network Data Utility tool.** A R-Shiny App Tool Kit for interactive network visualisation. There are several prewritten modules which enable users to search a particular node or edges based on identity or attribute.
+**Network Data Utility tool.** A R-Shiny App Tool Kit for interactive network visualisation. There are several prewritten modules that enables a user to search a particular node or edges based on identity or attribute.
 A demo of a web app written use this package is hosted on shiny.io: https://frank-the-tank.shinyapps.io/networkutils/
 
 **LLoyd Bank Statement Reader** A Python package which reads a pdf bank statement into `.csv`, which I used to analyse my personal financial well-being.
